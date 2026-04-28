@@ -20,19 +20,19 @@ Data Center Technician role.
 | Network Card | Intel X520/I350 Quad Port 10Gbps |
 | Power Supplies | 2x Dell 750W Platinum Redundant PSU |
 | Drive Bays | 8x 2.5" SFF Hot Swap |
-| Storage | Pending |
+| Storage | 2x Dell 600GB 10K SAS 2.5" — RAID 1 (Mirrored) |
 
 ---
 
 ## 📋 Lab Progress
 
 - [x] Lab 1 — Hardware unboxing & component identification
-- [ ] Lab 2 — RAM installation & first POST
-- [ ] Lab 3 — Ubuntu Server 24.04 installation
-- [ ] Lab 4 — iDRAC configuration & remote management
-- [ ] Lab 5 — SSH setup & headless administration
-- [ ] Lab 6 — Server monitoring dashboard (Grafana + Prometheus)
-- [ ] Lab 7 — Network configuration & VLAN setup
+- [x] Lab 1.5 — RAM installation & first POST
+- [x] Lab 2 — Ubuntu Server 24.04 installation/troubleshooting/notes
+- [ ] Lab 2.5 — iDRAC configuration & remote management
+- [ ] Lab 3 — SSH setup & headless administration
+- [ ] Lab 3.5 — Server monitoring dashboard (Grafana + Prometheus)
+- [ ] Lab 4 — Network configuration & VLAN setup
 
 ---
 

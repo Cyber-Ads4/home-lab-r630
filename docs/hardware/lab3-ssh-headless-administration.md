@@ -1,4 +1,4 @@
-# Lab 3 — SSH Setup & Headless Server Administration
+# Lab 3 & 4 — SSH Setup & Headless Server Administration
 
 ## Date
 April 2026

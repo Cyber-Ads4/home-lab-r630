@@ -28,8 +28,8 @@ Data Center Technician role.
 
 - [x] Lab 1 — Hardware unboxing & component identification
 - [x] Lab 2 — Ubuntu Server 24.04 installation/troubleshooting/notes
-- [ ] Lab 3 — iDRAC configuration & remote management
-- [ ] Lab 4 — SSH setup & headless administration
+- [x] Lab 3 — iDRAC configuration & remote management
+- [x] Lab 4 — SSH setup & headless administration
 - [ ] Lab 5 — Server monitoring dashboard (Grafana + Prometheus)
 - [ ] Lab 6 — Network configuration & VLAN setup
 

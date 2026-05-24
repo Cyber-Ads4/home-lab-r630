@@ -1,4 +1,4 @@
-# Lab 3 & 4 — SSH Setup & Headless Server Administration
+# Lab 3 — SSH Setup & Headless Server Administration
 
 ## Date
 April 2026
@@ -209,7 +209,6 @@ That's it.
 ---
 
 ## What's Next
-- [ ] Lab 4 — Grafana + Prometheus monitoring dashboard
 - [ ] Lab 5 — iDRAC remote management setup
 - [ ] Lab 6 — Automatic security updates
 - [ ] Lab 7 — Bash scripts for system health checks
